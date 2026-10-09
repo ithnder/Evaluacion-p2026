@@ -23,3 +23,102 @@ img {
 body {
   font-size: 1.6rem;
 }
+
+.titulo-header{
+  color: white;
+  font-size: 4rem;
+}
+
+.subtitulo-rojo-header{
+  color: #c0392b;
+  font-size: 4rem;
+}
+
+.subtitulo-gris-header{
+  color: #888888;
+  margin-top: 1.6rem;
+  margin-bottom: 2.8rem;
+}
+
+.texto-gris-claro{
+  color: #555555;
+  margin-left: 2.8rem;
+}
+
+
+.btn-rojo{
+  background-color: #c0392b;
+  color: #ffffff;
+  font-size: 1.4rem;
+  text-decoration: none;
+  padding: 1rem 2.4rem;
+  border-radius: 0.6rem;
+}
+
+.nav-bar{
+  display: flex;
+  margin: 1.6rem;
+  align-items: center;
+}
+
+.logo{
+  text-decoration: none;
+  color: #1a1a1a;
+  font-size: 1.6rem;
+}
+
+.nav-items{
+  display: flex;
+  list-style: none;
+  margin-left: 140rem;
+}
+
+.nav-items li a{
+  text-decoration: none;
+  font-size: 1.4rem;
+}
+.hero{
+background-color: #000000 ;
+padding: 3rem;
+}
+
+.footer{
+  background-color: #111111;
+  padding: 3.6rem 2rem;
+  justify-content: space-around;
+}
+
+.footer-logo{
+  color: white;
+}
+
+.footer h4{
+  color: white;
+  margin-left: 163rem;
+
+}
+/* no pude terminar el footer:,v*/
+.footer p{
+  justify-content: center;
+}
+.contenido-footer{
+  color: #888888;
+}
+
+.contenido-ciudades-footer{
+  color: #888888;
+  margin-left: 160rem;
+  font-size: 1.6rem;
+  list-style: none;
+  padding-bottom: 1rem;
+}
+
+.contenido-footer-copyright-notice{
+  color: #888888;
+  margin-left: 70rem;
+}
+
+.container{
+  width: 140rem;
+
+}
